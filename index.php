@@ -27,16 +27,16 @@
 						<div class="content">
 							<div class="inner">
 								<h1>Dimension</h1>
-								<p>El mundo cambia con tu ejemplo</p>
+								<p>El mundo cambia con tu ejemplo, unidos podemos lograrlo</p>
 							</div>
 						</div>
 						<nav>
 							<ul>
-								<li><a href="#intro">Intro</a></li>
-								<li><a href="#work">Work</a></li>
-								<li><a href="#about">About</a></li>
-								<li><a href="#intento">Intento</a></li>
-								<li><a href="#contact">Contact</a></li>
+								<li><a href="#quienessomos">Quienes somos</a></li>
+								<li><a href="#queofrecemos">Que ofrecemos</a></li>
+								<li><a href="#reciclaje">Reciclaje</a></li>
+								<li><a href="#cursos">Cursos</a></li>
+								<li><a href="#contacto">Contacto</a></li>
 								<!--<li><a href="#elements">Elements</a></li>-->
 							</ul>
 						</nav>
@@ -45,38 +45,40 @@
 				<!-- Main -->
 					<div id="main">
 
-						<!-- Intro -->	
-							<article id="intro">
-								<h2 class="major">Intro</h2>
+						<!-- Quienes somos -->	
+							<article id="quienessomos">
+								<h2 class="major">Quienes somos</h2>
 								<span class="image main"><img src="images/pic01.jpg" alt="" /></span>
-								<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. By the way, check out my <a href="#work">awesome work</a>.</p>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
-							</article>
+								<p>Desde nuestro punto de vista es asignar, reciclar y valorizar los residuos de forma cualitativa y sostenible para que todos puedan contribuir a un mundo mejor.</a></p>
+								<p>Ser el actor más verde en el mercado de reciclaje para la recogida, tratamiento y valorización de residuos. Priorizar los pilares del desarrollo sostenible: ambiental, social y económico y trabajar con respeto a los clientes, empleados y socios. </p>
+								</article>
 
-						<!-- Work -->
-							<article id="work">
-								<h2 class="major">Work</h2>
+						<!-- Que ofrecemos -->
+							<article id="queofrecemos">
+								<h2 class="major">Que ofrecemos</h2>
 								<span class="image main"><img src="images/pic02.jpg" alt="" /></span>
-								<p>Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.</p>
-								<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat tempus.</p>
+								<p>Primero que nada los cursos en el cual inculcamos educación sobre como reciclar y aprender a distinguir diferentes tipos de reciclaje. </p>
+								<p>Que nos distingue, te ofrecemos paquetes completos y económicos de reciclaje sustentable,trabajamos independientemente de empresas que no contribuyen al medio ambiente y ofrecemos una experta consultoría,orientación a soluciones, rapidez Y desición. </p>
 							</article>
 
-						<!-- About -->
-							<article id="about">
-								<h2 class="major">About</h2>
+						<!-- Reciclaje -->
+							<article id="reciclaje">
+								<h2 class="major">Reciclaje</h2>
 								<span class="image main"><img src="images/pic03.jpg" alt="" /></span>
-								<p>Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero et malesuada fames ac ante ipsum primis in faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit amet.</p>
+								<p>La recolección y el procesamiento de desechos de papel y cartón, vidrio o plástico supone crear nuevos productos basados en esos mismos materiales. Una nueva oportunidad para la Tierra, a la que se puede proteger si se entienden los beneficios del reciclaje, la manera correcta separar los residuos y los retos a los que se enfrenta esta actividad en los próximos años.</p>
 							</article>
-
-						<!-- Intento -->
-						<article id="intento">
-							<h2 class="major">Intento</h2>
-							<span class="image main"><img src="images/pic04.jpg" alt="" /></span>
-							<p>Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero et malesuada fames ac ante ipsum primis in faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit amet.</p>
+						<!-- Cursos -->
+						<article id="cursos">
+							<h2 class="major">Cursos</h2>
+							<span class="image main"><img src="images/pic06.jpg" alt="" /></span>
+							<p>Cursos</p>
+							<p>Nivel principiante</p>
+							<p>Nivel Medio</p>
+							<p>Nivel Experto</p>
 						</article>
 
-						<!-- Contact -->
-							<article id="contact">
+						<!-- Contacto -->
+							<article id="contacto">
 								<h2 class="major">Contactanos</h2>
 								<form action="php/consulta.php" id="contacto" method="POST" class="contacto">
 								<div class="fields">
@@ -189,7 +191,7 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 									<ul class="icons">
 										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
 										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-										<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+										<li><a href="https://www.instagram.com/ecologica.ar/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
 										<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
 									</ul>
 
@@ -376,11 +378,11 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 				<!-- Footer -->
 				<ul><head></ul>
 				<ul class="icons">
-					<li><a href="#" target="_blank" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-					<li><a href="#" target="_blank" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-					<li><a href="#" target="_blank" class="icon brands fa-tiktok"><span class="label">Tiktok</span></a></li>
-					<li><a href="#" target="_blank" class="icon brands fa-youtube"><span class="label">Youtube</span></a></li>
-					<li><a href="#" target="_blank" class="icon brands fa-instagram"><span class="label">Instagram+</span></a></li>
+					<li><a href="https://twitter.com/EFEverde" target="_blank" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+					<li><a href="https://www.facebook.com/clubdehuellaecologica/?hc_ref=ARRWG-IYCy-Ji64nNIhflyLj1tC_ZCXZVb_qrTFlB3r6CLS5FkCpFQO33vbYe-elQwY&ref=nf_target&__xts__[0]=68.ARBQYhVXZnzuX0HO6f3mjoHXh8HgEVO9zVyOAV-5n791JcRbKG194t2N2vwieIGBEzYT_62mv8x9UAklK4VoiI83HDQUFVAHA-eXbWTt07IGViKHwGy5NlpfhOlkSI9v5fPu6sD160rwMDQh6RlYg2Dqa24UT-jcSTi1SSuTIo345Kg4-FTUk523C6mLYRbgrWGlYIGZ3ad4fIxI2b6znhOQuD9_4WF11qtVW1W-V4N0k2IjoD4JaaOuCHhfJLTcowD5sSf-YmQbvyALYPfJvoLxqQrvLla5rOuzsO0MR-c7KuiI9r0SPp25Mbcd4NlL7rfoDnUmM6g" target="_blank" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+					<li><a href="https://www.tiktok.com/@biofase" target="_blank" class="icon brands fa-tiktok"><span class="label">Tiktok</span></a></li>
+					<li><a href="https://www.youtube.com/c/GOGREEN1" target="_blank" class="icon brands fa-youtube"><span class="label">Youtube</span></a></li>
+					<li><a href="https://www.instagram.com/ecologica.ar/" target="_blank" class="icon brands fa-instagram"><span class="label">Instagram+</span></a></li>
 				</ul>
 					<footer id="footer">
 						<p class="copyright">&copy; Untitled. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
