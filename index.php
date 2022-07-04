@@ -36,7 +36,7 @@
 								<li><a href="#queofrecemos">Que ofrecemos</a></li>
 								<li><a href="#reciclaje">Reciclaje</a></li>
 								<li><a href="#cursos">Cursos</a></li>
-								<li><a href="#contacto">Contacto</a></li>
+								<li><a href="#inscribirse">Inscribirse</a></li>
 								<!--<li><a href="#elements">Elements</a></li>-->
 							</ul>
 						</nav>
@@ -77,9 +77,9 @@
 							<p>Nivel Experto</p>
 						</article>
 
-						<!-- Contacto -->
-							<article id="contacto">
-								<h2 class="major">Contactanos</h2>
+						<!-- Inscribirse -->
+							<article id="inscribirse">
+								<h2 class="major">Inscribite aqui</h2>
 								<form action="php/consulta.php" id="contacto" method="POST" class="contacto">
 								<div class="fields">
 									<div class="field half">
