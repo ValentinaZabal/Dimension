@@ -7,11 +7,11 @@ $apellido = $_POST['apellido'];
 $correo = $_POST['correo'];
 $mensaje = $_POST['mensaje'];
 
-$query = "INSERT INTO contacto (nombre, apellido, correo, mensaje)
+$sql = "INSERT INTO contacto (nombre, apellido, correo, mensaje)
         VALUES('$nombre','$apellido','$correo','$mensaje')";
 
 
-$ejecutar= mysqli_query($conexion, $query);
+$ejecutar= mysqli_query($conexion, $sql);
 if($ejecutar) {
     echo '
     <script>
