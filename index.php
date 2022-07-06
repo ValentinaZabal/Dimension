@@ -33,8 +33,8 @@
 						<nav>
 							<ul>
 								<li><a href="#quienessomos">Nosotros</a></li>
-								<li><a href="#queofrecemos">Que ofrecemos</a></li>
-								<li><a href="#reciclaje">Importancia del reciclaje</a></li>
+								<li><a href="#queofrecemos">Que ofrecemos</a></li><li>
+								<li><a href="#reciclaje">Reciclaje</a></li>
 								<li><a href="#inscripcion">Inscribirse</a></li>
 								<li><a href="#desinscripcion">Borrar inscripción</a></li>
 								<li><a href="#modificatusdatos">Modificar datos</a></li>
