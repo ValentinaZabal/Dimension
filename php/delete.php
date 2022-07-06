@@ -7,7 +7,6 @@ $correo = $_POST['correo'];
 if ($conexion->connect_error) {
     die("Connection failed: " . $conexion->connect_error);
 }
-
 $query = "DELETE FROM contacto WHERE correo = '$correo'";
 
 $ejecutar = mysqli_query($conexion, $query);

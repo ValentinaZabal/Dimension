@@ -32,11 +32,12 @@
 						</div>
 						<nav>
 							<ul>
-								<li><a href="#quienessomos">Quienes somos</a></li>
+								<li><a href="#quienessomos">Nosotros</a></li>
 								<li><a href="#queofrecemos">Que ofrecemos</a></li>
-								<li><a href="#reciclaje">Reciclaje</a></li>
+								<li><a href="#reciclaje">Importancia del reciclaje</a></li>
 								<li><a href="#inscripcion">Inscribirse</a></li>
 								<li><a href="#desinscripcion">Borrar inscripción</a></li>
+								<li><a href="#modificatusdatos">Modificar datos</a></li>
 								
 								<!--<li><a href="#elements">Elements</a></li>-->
 							</ul>
@@ -58,8 +59,10 @@
 							<article id="queofrecemos">
 								<h2 class="major">Que ofrecemos</h2>
 								<span class="image main"><img src="images/pic02.jpg" alt="" /></span>
-								<p>Primero que nada los cursos en el cual inculcamos educación sobre como reciclar y aprender a distinguir diferentes tipos de reciclaje. </p>
-								<p>Que nos distingue, te ofrecemos paquetes completos y económicos de reciclaje sustentable,trabajamos independientemente de empresas que no contribuyen al medio ambiente y ofrecemos una experta consultoría,orientación a soluciones, rapidez Y desición. </p>
+								<p>Primero que nada los cursos en los cuales inculcamos educación sobre como reciclar y aprender a distinguir diferentes tipos de reciclaje. </p>
+								<p>Que nos distingue, te ofrecemos paquetes completos, gratuitos y online de reciclaje sustentable,trabajamos independientemente de empresas que no contribuyen al medio ambiente y ofrecemos una experta consultoría,orientación a soluciones, rapidez Y desición. </p>
+								<p>Todo esto se puede realizar desde la comodidad de tu casa; tenemos cursos con una duracion de 20 dias, donde te enviamos videos y actividades interactivas cada dos dias para que no pierdas la costumbre. Tambien te proponemos un reto semanal relacionado al tema que se este tratando. </p>
+								<p>Una vez finalizado el curso, te va a llegar a tu mail la certificacion por haberlo terminado. </p>
 							</article>
 
 						<!-- Reciclaje -->
@@ -70,7 +73,7 @@
 							</article>
 						<!-- Cursos -->
 						<article id="inscripcion">
-						<h2 class="major">Contactanos</h2>
+						<h2 class="major">Inscribite aqui</h2>
 								<form action="php/consulta.php" id="contacto" method="POST" class="contacto">
 								<div class="fields">
 									<div class="field half">
@@ -91,7 +94,7 @@
 								</div>
 								</div>
 								<ul class="actions">
-									<li><input type="submit" value="Envíar Mensaje" class="primary" /></li>
+									<li><input type="submit" value="Inscribirme" class="primary" /></li>
 									<li><input type="reset" value="Borrar todo" /></li>
 								</form>
 							</article>
@@ -99,6 +102,7 @@
 						<!-- Contacto -->
 							<article id="desinscripcion">
 							<h2 class="major">Borrar inscripción</h2>
+							<p>Escribi el mismo mail con el que te inscribiste y se eliminara tu informacion automaticamente del sistema.</p>
 								<form action="php/delete.php" id="contacto" method="POST" class="contacto">
 								<div class="fields">
 									<div class="field complete">
@@ -107,11 +111,39 @@
 								</div>
 								</div>
 								<ul class="actions">
-									<li><input type="submit" value="Eliminar suscripción" class="primary" /></li>
+									<li><input type="submit" value="Eliminar inscripción" class="primary" /></li>
 									<li><input type="reset" value="Borrar todo" /></li>
 								</form>
 							</article>
-
+						<!-- Modificacion -->
+							<article id="modificatusdatos">
+								<h2 class="major">Modifica tu informacion</h2>
+								<p>Para poder realizar modificaciones en tu informacion personal, coloca tus datos actualizados pero utilizando el mismo mail que colocaste al inicio.</p>
+								<form action="php/modificacion.php" id="contacto" method="POST" class="contacto">
+								<div class="fields">
+									<div class="field half">
+										<label for="nombre">Nombre</label>
+									<input type="text" name="nombre" placeholder="Martin ">
+								</div>
+									<div class="field half">
+										<label for="apellido">Apellido</label>
+                                 <input type="text" name="apellido" placeholder="Gallo">
+								</div>
+                                    <div class="field complete">
+										<label for="correo">Email</label>
+								 <input type="email" name="correo" placeholder="mgallo@mail.austral.edu.ar">
+								</div>
+									<div class="field">	
+										<label for="mensaje">Mensaje</label>
+                                 <textarea name="mensaje" placeholder= "Escriba aqui su mensaje"></textarea>
+								</div>
+								</div>
+								<ul class="actions">
+									<li><input type="submit" value="Realizar cambios" class="primary" /></li>
+									<li><input type="reset" value="Borrar todo" /></li>
+									</p>
+								</form>
+							</article>
 
 
 
